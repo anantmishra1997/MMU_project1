@@ -1,1 +1,1 @@
-print 'hello'
+print 'Let\'s get started'
