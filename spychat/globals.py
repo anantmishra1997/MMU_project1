@@ -2,4 +2,4 @@
 current_status_message = None
 
 # list of default status
-STATUS_MESSAGES = ['Why so serious son.....!!', 'Never mind..!!', 'Its never too late']
+STATUS_MESSAGES = ['Its been a long day', 'Never mind..!!', 'Its never too late']
